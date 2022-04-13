@@ -26,7 +26,7 @@ function evenOrOdd(number) {
         return("Even")
     }else {
         // we don't need to add another conditional because anything that is not divisible by two with 0 remaining (even) is odd, so if it fails the first conditional it has to be odd.
-    return("Odd")
+        return("Odd")
     }
 }
 
