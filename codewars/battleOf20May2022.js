@@ -13,10 +13,10 @@
 
 // PREP
 // Parameters:
-//
+// number
 
 // Results:
-//
+// number
 
 // Examples:
 // 1705 --> 18
