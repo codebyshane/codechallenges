@@ -23,12 +23,12 @@
 // array of strings
 
 // Results:
-// 
+// number
 
 // Examples:
-// 
-// 
-// 
+// ["3:1", "2:2", "0:1", "1:0", "4:0", "2:2", "1:3", "1:1", "0:3", "1:0"] --> 15
+// ["1:0", "4:0", "2:2", "1:3", "1:1", "0:3", "1:0", "3:1", "2:2", "0:1"] --> 15
+// ["1:0", "4:0", "2:2", "3:1", "2:2", "0:1", "0:3", "1:0", "1:3", "1:1"] --> 15
 
 
 // Solution with Psuedo: 
@@ -48,3 +48,5 @@ function points(games) {
     // return the total number of points after all matches have been calculated
     return totalPoints;
   }
+
+points(["3:1", "2:2", "0:1", "1:0", "4:0", "2:2", "1:3", "1:1", "0:3", "1:0"]);
