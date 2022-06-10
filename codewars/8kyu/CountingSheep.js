@@ -19,17 +19,17 @@
 
 // PREP
 // Parameters:
-//
+// array of boolean
 
 
 // Results:
-//
+// number
 
 
 // Examples:
-// 
-// 
-// 
+// [true, true, true, false, false, false, true] ==> 4
+// [true, true, true, false] ==> 3
+// [true, true, true, false, true, true, false, true, false, true] ==> 7
 
 
 // Solution with Psuedo: 
