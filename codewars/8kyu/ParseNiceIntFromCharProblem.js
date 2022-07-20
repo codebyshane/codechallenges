@@ -25,5 +25,5 @@
 // Solution with Psuedo: 
 
 function getAge(inputString){
-    return Math.abs(inputString.charAt(0))
+    return parseInt(inputString);
 }
