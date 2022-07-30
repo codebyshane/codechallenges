@@ -16,15 +16,15 @@
 
 // PREP
 // Parameters:
-
+// string
 
 // Results:
-
+// string
 
 // Examples:
-// 
-// 
-// 
+// 'Hello World' --> 'hELLO wORLD'
+// 'HELLO world' --> 'hello WORLD'
+// 'HeLlO wOrLd' --> 'hElLo WoRlD'
 
 
 // Solution with Psuedo: 
