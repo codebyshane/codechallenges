@@ -19,17 +19,17 @@
 
 // PREP
 // Parameters:
-// 
+// number
 
 
 // Results:
-//
+// string
 
 
 // Examples:
-// 
-// 
-// 
+// 7 --> I love you
+// 9 --> a lot
+// 42 --> not at all
 
 
 // Solution with Psuedo: 
