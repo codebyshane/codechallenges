@@ -56,9 +56,10 @@ function findEvenIndex(arr) {
       let end = arr.slice(i).reduce((a, b) => a + b, 0)
       if (start === end) {
         index = i
+        return index;
       }
     }
     return index;
   }
 
-console.log(findEvenIndex([1,2,3,4,3,2,1]))
+console.log(findEvenIndex([0, 0, 0, 0, 0]))
