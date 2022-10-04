@@ -31,11 +31,11 @@
 
 // PREP
 // Parameters:
-// 
+// array and number
 
 
 // Results:
-//
+// string
 
 
 // Examples:
