@@ -21,5 +21,15 @@
 // Solution with Psuedo: 
 
 function pigIt(str){
-    //Code here
+    const strArr = str.split(' ');
+    console.log(strArr);
+
+    for (let i = 0; i < strArr.length - 1; i++) {
+      let word = strArr[i].split('');
+      console.log(word);
+
+      
+    }
   }
+
+pigIt('Bacon is made from what ?!')

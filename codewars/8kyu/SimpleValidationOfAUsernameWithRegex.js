@@ -1,5 +1,5 @@
 // Challenge:
-// c
+// Simple Validation of a username with regex
 
 // Write a simple regex to validate a username. Allowed characters are:
 // lowercase letters,
