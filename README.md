@@ -8,7 +8,7 @@ Here are the coding challenges I do everyday.
 
 ## Challenges Completed
 ### Codewars
-##### 8kyu Challenges
+##### 8kyu
 - [A Strange Trip to the Market](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 - [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
@@ -78,35 +78,35 @@ Here are the coding challenges I do everyday.
 - [You Only Need One - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 - [repeatIt](https://www.codewars.com/kata/557af9418895e44de7000053)
 
-##### 7kyu Challenges
+##### 7kyu
 
-##### 6kyu Challenges
+##### 6kyu
 
-##### 5kyu Challenges
+##### 5kyu
 - [Extract the Domain Name From a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 - [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 
-##### 4kyu Challenges
+##### 4kyu
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 
-##### 3kyu Challenges
+##### 3kyu
 
-##### 2kyu Challenges
+##### 2kyu
 
-##### 1kyu Challenges
+##### 1kyu
 
-##### 1dan Challenges
+##### 1dan
 
-##### 2dan Challenges
+##### 2dan
 
 
 ### LeetCode
-##### Easy Challenges
+##### Easy
 
-##### Medium Challenges
+##### Medium
 
-##### Hard Challenges
+##### Hard
 
 
 ### HackerRank
