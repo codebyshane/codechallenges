@@ -2,20 +2,93 @@
 Here are the coding challenges I do everyday.
 
 ## The Sites
-1. [CodeWars]()
-2. [LeetCode]()
-3. [HackerRank]()
+1. [CodeWars](https://www.codewars.com/)
+2. [LeetCode](https://leetcode.com)
+3. [HackerRank](https://www.hackerrank.com/)
 
+## Challenges Completed
 ### CodeWars
 #### 8kyu Challenges
+- [A Strange Trip to the Market](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
+- [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+- [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
+- [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832)
+- [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
+- [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
+- [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
+- [Convert A Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+- [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+- [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
+- [Convert a String to an Array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+- [Convert to Binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a)
+- [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
+- [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+- [Define a Card Suit](https://www.codewars.com/kata/5a360620f28b82a711000047)
+- [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+- [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+- [Find the Remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
+- [Find the Slope](https://www.codewars.com/kata/55a75e2d0803fea18f00009d)
+- [Geometry Basics: Distance Between Points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be)
+- [Grasshopper - Check for Factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
+- [Grasshopper - Messi Goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)
+- [Grasshopper - Order of Operations](https://www.codewars.com/kata/560ecf0cb040de130e00007d)
+- [Holiday VI - Shark Pontoon](https://www.codewars.com/kata/57e921d8b36340f1fd000059)
+- [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
+- [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
+- [L1: Bartender, Drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d)
+- [Multiplication Table for Number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
+- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+- [NBA Full 48 Minutes Average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
+- [Name Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)
+- [No Loops 2 - You Only Need One](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
+- [Opposite Number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
+- [Palindrome Strings](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
+- [Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d)
+- [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
+- [Regex Count Lowercase Letters](https://www.codewars.com/kata/56a946cd7bd95ccab2000055)
+- [Regexp Basics - Is it a Digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
+- [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+- [Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d)
+- [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+- [Remove the Time](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e)
+- [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+- [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+- [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)
+- [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+- [Simple Change Machine](https://www.codewars.com/kata/57238766214e4b04b8000011/javascript)
+- [Simple Validation of a Username with Regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)
+- [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
+- [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
+- [String Cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
+- [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+- [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+- [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
+- [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
+- [The Wide-Mouthed Frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
+- [Thinkful - Number Drills: Blue and Red Marbles](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b)
+- [Total Amount of Points](https://www.codewars.com/kata/5bb904724c47249b10000131)
+- [Twice as Old](https://www.codewars.com/kata/5b853229cfde412a470000d0)
+- [Validate Code with Simple Regex](https://www.codewars.com/kata/56a25ba95df27b7743000016)
+- [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a)
+- [Vowel Remover](https://www.codewars.com/kata/5547929140907378f9000039)
+- [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+- [Well Of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
+- [Will You Make It?](https://www.codewars.com/kata/5861d28f124b35723e00005e)
+- [You Only Need One - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
+- [repeatIt](https://www.codewars.com/kata/557af9418895e44de7000053)
 
 #### 7kyu Challenges
 
 #### 6kyu Challenges
 
 #### 5kyu Challenges
+- [Extract the Domain Name From a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
+- [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
+- [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 
 #### 4kyu Challenges
+- [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 
 #### 3kyu Challenges
 
