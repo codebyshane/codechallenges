@@ -25,9 +25,9 @@
 
 
 // Examples:
-// 
-// 
-// 
+// ["Telescopes", "Glasses", "Eyes", "Monocles"] --> ["Eyes", "Glasses", "Monocles", "Telescopes"]
+// ["Dog", "Cat", "Bird", "Fish", "Reptile"] --> ["Dog", "Cat", "Bird", "Fish", "Reptile"]
+// ["Sugar", "Spice", "Nice"] --> ["Nice", "Sugar", "spice"]
 
 
 // Solution with Psuedo: 
@@ -36,4 +36,4 @@ function sortByLength (array) {
     return array.sort((a, b) => a.length - b.length)
   };
 
-console.log(sortByLength(["Telescopes", "Glasses", "Eyes", "Monocles"]))
+console.log(sortByLength(["Dog", "Cat", "Bird", "Fish", "Reptile"]))
