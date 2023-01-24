@@ -1,94 +1,303 @@
 # Code Challenges
 Here are the coding challenges I do everyday.
 
-## The Sites
-1. [CodeWars](https://www.codewars.com/)
-2. [LeetCode](https://leetcode.com)
-3. [HackerRank](https://www.hackerrank.com/)
-
-## Challenges Completed
 ### Codewars
 ##### 8kyu
-- [A Strange Trip to the Market](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
-- [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
-- [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
-- [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832)
-- [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
-- [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
-- [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
-- [Convert A Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
-- [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
-- [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
-- [Convert a String to an Array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
-- [Convert to Binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a)
-- [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
-- [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
-- [Define a Card Suit](https://www.codewars.com/kata/5a360620f28b82a711000047)
-- [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
-- [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
-- [Find the Remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
-- [Find the Slope](https://www.codewars.com/kata/55a75e2d0803fea18f00009d)
-- [Geometry Basics: Distance Between Points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be)
-- [Grasshopper - Check for Factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
-- [Grasshopper - Messi Goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)
-- [Grasshopper - Order of Operations](https://www.codewars.com/kata/560ecf0cb040de130e00007d)
-- [Holiday VI - Shark Pontoon](https://www.codewars.com/kata/57e921d8b36340f1fd000059)
-- [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
-- [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
-- [L1: Bartender, Drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d)
-- [Multiplication Table for Number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
-- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
-- [NBA Full 48 Minutes Average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
-- [Name Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)
-- [No Loops 2 - You Only Need One](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
-- [Opposite Number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
-- [Palindrome Strings](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
-- [Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d)
-- [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
-- [Regex Count Lowercase Letters](https://www.codewars.com/kata/56a946cd7bd95ccab2000055)
-- [Regexp Basics - Is it a Digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
-- [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
-- [Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d)
-- [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
-- [Remove the Time](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e)
-- [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
-- [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
-- [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
-- [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)
-- [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
-- [Simple Change Machine](https://www.codewars.com/kata/57238766214e4b04b8000011/javascript)
-- [Simple Validation of a Username with Regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)
-- [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
-- [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
-- [String Cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
-- [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
-- [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
-- [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
-- [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
-- [The Wide-Mouthed Frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
-- [Thinkful - Number Drills: Blue and Red Marbles](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b)
-- [Total Amount of Points](https://www.codewars.com/kata/5bb904724c47249b10000131)
-- [Twice as Old](https://www.codewars.com/kata/5b853229cfde412a470000d0)
-- [Validate Code with Simple Regex](https://www.codewars.com/kata/56a25ba95df27b7743000016)
-- [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a)
-- [Vowel Remover](https://www.codewars.com/kata/5547929140907378f9000039)
-- [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
-- [Well Of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
-- [Will You Make It?](https://www.codewars.com/kata/5861d28f124b35723e00005e)
-- [You Only Need One - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
-- [repeatIt](https://www.codewars.com/kata/557af9418895e44de7000053)
+- [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/101Dalmations-SquashTheBugsNotTheDogs.js)
+- [5 without numbers !!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/5WithoutNumbers.js)
+- [A Needle in the Haystack](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ANeedleInTheHaystack.js)
+- [A Strange Trip to the Market](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AStrangeTripToTheMarket.js)
+- [A wolf in sheep's clothing](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AWolfInSheepsClothing.js)
+- [Abbreviate a Two Word Name](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AbbreviateATwoWordName.js)
+- [Alan Partridge II - Apple Turnover](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AlanPartridgeII-AppleTurnover.js)
+- [All Star Code Challenge #18](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AllStarCodeChallenge18.js)
+- [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AlternatingCase-AlternatingCase.js)
+- [Are You Playing Banjo?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AreYouPlayingBanjo.js)
+- [Area or Perimeter](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/AreaOrPerimeter.js)
+- [Array plus array](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ArrayPlusArray.js)
+- [Basic Mathematical Operations](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/BasicMathematicalOperations.js)
+- [Beginner - Lost Without a Map](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Beginner-LostWithoutAMap.js)
+- [Beginner - Reduce but Grow](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Beginner-ReduceButGrow.js)
+- [Beginner Series #1 School Paperwork](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/BeginnerSeries1SchoolPaperwork.js)
+- [Beginner Series #2 Clock](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/BeginnerSeries2Clock.js)
+- [Beginner Series #4 Cockroach](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/BeginnerSeries4Cockroach.js)
+- [Bin to Decimal](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/BinToDecimal.js)
+- [Calculate average](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CalculateAverage.js)
+- [Calculate BMI](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CalculateBMI.js)
+- [Capitalization and Mutability](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CapitalizationAndMutability.js)
+- [Cat years, Dog years](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CatYearsDogYears.js)
+- [Century From Year](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CenturyFromYear.js)
+- [Convert A Boolean to a String](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertABooleanToAString.js)
+- [Convert a Number to a String!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertANumberToAString.js)
+- [Convert a String to a Number!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertAStringToANumber.js)
+- [Convert a String to an Array](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertAStringToAnArray.js)
+- [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertBooleanValuesToStringsYesorNo.js)
+- [Convert number to reversed array of digits](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertNumberToReversedArrayOfDigits.js)
+- [Convert to Binary](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ConvertToBinary.js)
+- [Correct the mistakes of the character recognition software](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CorrectTheMistakesOfTheCharacterRecognitionSoftware.js)
+- [Count by X](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CountByX.js)
+- [Count of positives / sum of negatives](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CountOfPositives-SumOfNegatives.js)
+- [Count the Monkeys!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CountTheMonkeys.js)
+- [Counting sheep...](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/CountingSheep.js)
+- [Define a Card Suit](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/DefineACardSuit.js)
+- [Difference of Volumes of Cuboids](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/DifferenceOfVolumesOfCubes.js)
+- [DNA to RNA Conversion](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/DNAtoRNAConversion.js)
+- [Double Char](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/DoubleChar.js)
+- [Drink about](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/DrinkAbout.js)
+- [Enumerable Magic #25 - Take the First N Elements](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/EnumerableMagic25-TakeTheFirstNElements.js)
+- [Even or Odd](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/EvenOrOdd.js)
+- [Exclamation marks series #1: Remove an exclamation mark from the end of string](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ExclamationMarksSeries1-RemoveAnExclamationMArkFromTheEndOFString.js)
+- [Exclusive "or" (xor) Logical Operator](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ExclusiveOrXORLogicalOperator.js)
+- [Expressions Matter](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ExpressionsMatter.js)
+- [Fake Binary](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FakeBinary.js)
+- [Filling an array (part 1)](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FillingAnArray-Part1.js)
+- [Filter out the geese](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FilterOutTheGeese.js)
+- [Find Maximum and Minimum Values of a List](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FindMaximumAndMinimumValuesOfAList.js)
+- [Find Multiples of a Number](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FindMultiplesOfANumber.js)
+- [Find the first non-consecutive number](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FindTheFirstNon-ConsecutiveNumber.js)
+- [Find the Remainder](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FindTheRemainder.js)
+- [Find the Slope](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FindTheSlope.js)
+- [Find the smallest integer in the array](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/FindTheSmallestIntegerInTheArray.js)
+- [Function 1 - hello world](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Function1-HelloWorld.js)
+- [Function 2 - squaring an argument](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Function2-SquaringAnArgument.js)
+- [Geometry Basics: Distance Between Points in 2D](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/GeometryBasics-DistanceBetweenPointsIn2D.js)
+- [get character from ASCII Value](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/GetCharacterFromASCIIValue.js)
+- [Grasshopper - Basic Function Fixer](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-BasicFunctionFixer.js)
+- [Grasshopper - Check for Factor](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-CheckForFactor.js)
+- [Grasshopper - Debug sayHello](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-DebugSayHello.js)
+- [Grasshopper - Function syntax debugging](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-FunctionSyntaxDebuging.js)
+- [Grasshopper - Grade book](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-GradeBook.js)
+- [Grasshopper - Messi Goals](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-MessiGoals.js)
+- [Grasshopper - Messi goals function](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-MessiGoalsFunction.js)
+- [Grasshopper - Order of Operations](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-OrderOfOperations.js)
+- [Grasshopper - Personalized Message](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-PersonalizedMessage.js)
+- [Grasshopper - Summation](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-Summation.js)
+- [Grasshopper - Terminal game move function](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Grasshopper-TerminalGameMoveFunction.js)
+- [Hello, Name or World!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/HelloNameOrWorld.js)
+- [Hex to Decimal](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/HexToDecimal.js)
+- [Holiday VI - Shark Pontoon](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/HolidayVI-SharkPontoon.js)
+- [Holiday VIII - Duty Free](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/HolidayVIII-DutyFree.js)
+- [How good are you really?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/HowGoodAreYouReally.js)
+- [How many lightsabers do you own?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/HowManyLightsabersDoYouOwn.js)
+- [I love you, a little , a lot, passionately ... not at all](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ILoveYouALittleALotPassionately.js)
+- [If you can't sleep, just count sheep!!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/IfYouCantSleepJustCountSheep.js)
+- [Invert values](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/InvertValues.js)
+- [Is he gonna survive?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/IsHeGonnaSurvive.js)
+- [Is it a palindrome?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/IsItAPalindrome.js)
+- [Is it even?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/IsItEven.js)
+- [Is the string uppercase?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/IsTheStringUppercase.js)
+- [Keep Hydrated!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/KeepHydrated.js)
+- [Keep up the hoop](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/KeepUpTheHoop.js)
+- [L1: Bartender, Drinks!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/L1-BartenderDrinks.js)
+- [L1: Set Alarm](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/L1-SetAlarm.js)
+- [Lario and Muigi Pipe Problem](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/LarioAndMuigiPipeProblem.js)
+- [MakeUpperCase](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/MakeUpperCase.js)
+- [Merge two sorted arrays into one](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/MergeTwoSortedArraysIntoOne.js)
+- [Multiplication Table for Number](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/MultiplicationTableForNumber.js)
+- [Multiply](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Multiply.js)
+- [N-th Power](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/N-thPower.js)
+- [NBA Full 48 Minutes Average](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/NBAFull48MinutesAverage.js)
+- [Name Shuffler](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/NameShuffler.js)
+- [No Loops 2 - You Only Need One](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/NoLoops2-YouOnlyNeedOne.js)
+- [Opposite Number](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/OppositeNumber.js)
+- [Opposites Attract](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/OppositesAttract.js)
+- [Palindrome Strings](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/PalindromeStrings.js)
+- [Parse nice int from char problem](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ParseNiceIntFromCharProblem.js)
+- [Pillars](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Pillars.js)
+- [Plural](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Plural.js)
+- [Powers of 2](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/PowersOf2.js)
+- [Quarter of the year](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/QuarterOfTheYear.js)
+- [Regex Count Lowercase Letters](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RegexCountLowercaseLetters.js)
+- [Regexp Basics - Is it a Digit?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RegexpBasics-IsItADigit.js)
+- [Regular Ball Super Ball](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RegularBallSuperBall.js)
+- [Remove duplicates from list](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemoveDuplicatesFromList.js)
+- [Remove exclamation marks](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemoveExclamationMarks.js)
+- [Remove First and Last Character](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemoveFirstAndLastCharacter.js)
+- [Remove First and Last Character Part Two](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemoveFirstAndLastCharacterPartTwo.js)
+- [Remove String Spaces](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemoveStringSpaces.js)
+- [Remove the Time](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemoveTheTime.js)
+- [Removing Elements](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RemovingElements.js)
+- [repeatIt](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/repeatIt.js)
+- [Return Negative](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ReturnNegative.js)
+- [Returning Strings](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ReturningStrings.js)
+- [Reverse List Order](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ReverseListOrder.js)
+- [Reversed sequence](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ReversedSequence.js)
+- [Reversed Strings](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ReversedStrings.js)
+- [Reversing Words in a String](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ReversingWordsInAString.js)
+- [Rock Paper Scissors!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/RockPaperScissors.js)
+- [Sentence Smash](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SentenceSmash.js)
+- [Simple Change Machine](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SimpleChangeMachine.js)
+- [Simple multiplication](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SimpleMultiplication.js)
+- [Simple Validation of a Username with Regex](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SimpleValidationOfAUsernameWithRegex.js)
+- [Sort and Star](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SortAndStar.js)
+- [Square(n) Sum](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SquareNSum.js)
+- [String Cleaning](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/StringCleaning.js)
+- [String repeat](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/StringRepeat.js)
+- [Student's Final Grade](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/StudentsFinalGrade.js)
+- [Sum Arrays](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SumArrays.js)
+- [Sum Mixed Array](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SumMixedArray.js)
+- [Sum of Positive](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SumOfPositive.js)
+- [Sum The Strings](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SumTheStrings.js)
+- [Sum without highest and lowest number](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SumWithoutHighestAndLowestNumber.js)
+- [Super Duper Easy](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SuperDuperEasy.js)
+- [Surface Area and Volume of a Box](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SurfaceAreaAndVolumeOfABox.js)
+- [Switch it Up!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/SwitchItUp.js)
+- [The Feast of Many Beasts](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TheFeastOfManyBeasts.js)
+- [The 'if' function](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TheIfFunction.js)
+- [The Wide-Mouthed Frog!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TheWide-MouthedFrog.js)
+- [Thinkful - Logic Drills: Traffic light](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Thinkful-LogicDrillsTrafficLight.js)
+- [Thinkful - Number Drills: Blue and Red Marbles](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Thinkful-NumberDrills-BlueAndRedMarbles.js)
+- [Third Angle of a Triangle](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ThirdAngleOfATriangle.js)
+- [Total Amount of Points](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TotalAmountOfPoints.js)
+- [Training JS #1: create your first JS function and print "Hello World!"](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TrainingJS1-CreateYourFirstJSFunctionAndPrintHelloWorld.js)
+- [Training JS #2: Basic data types--Number](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TrainingJS2-BasicDataTypes-Number.js)
+- [Training JS #7: if..else and ternary operator](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TrainingJS7-IfElseAndTernaryOperator.js)
+- [Transportation on vacation](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TransportationOnVacation.js)
+- [Twice as Old](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/TwiceAsOld.js)
+- [Validate Code with Simple Regex](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/ValidateCodeWithSimpleRegex.js)
+- [Volume of a Cuboid](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/VolumeOfACuboid.js)
+- [Vowel Remover](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/VowelRemover.js)
+- [Welcome!](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/Welcome.js)
+- [Welcome to the City](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/WelcomeToTheCity.js)
+- [Well Of Ideas - Easy Version](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/WellOfIdeas-EasyVersion.js)
+- [What is between?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/WhatIsBetween.js)
+- [What's the real floor?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/WhatsTheRealFloor.js)
+- [Will there be enough space?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/WillThereBeEnoughSpace.js)
+- [Will You Make It?](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/WillYouMakeIt.js)
+- [You Can't Code Under Pressure #1](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/YouCantCodeUnderPressure1.js)
+- [You Only Need One - Beginner](https://github.com/codebyshane/codechallenges/blob/main/codewars/8kyu/YouOnlyNeedOne-Beginner.js)
+
 
 ##### 7kyu
+- [Alternate capitalization](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/AlternateCapitalization.js)
+- [Anagram Detection](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/AnagramDetection.js)
+- [Are the numbers in order?](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/AreTheNumbersInOrder.js)
+- [Beginner Series #3 Sum of Numbers](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/BeginnerSeries3-SumOfNumbers.js)
+- [Binary Addition](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/BinaryAddition.js)
+- [Categorize New Member](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/CategorizeNewMember.js)
+- [Check the exam](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/CheckTheExam.js)
+- [Complementary DNA](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/ComplementaryDNA.js)
+- [Count the Digit](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/CountTheDigit.js)
+- [Count the divisors of a number](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/CountTheDivisorsOfANumber.js)
+- [Deodorant Evaporator](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/DeodorantEvaporator.js)
+- [Descending Order](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/DescendingOrder.js)
+- [Disemvowel Trolls](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/DisemvowelTrolls.js)
+- [Exes and Ohs](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/ExesAndOhs.js)
+- [Factorial](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/Factorial.js)
+- [Find the capitals](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FindTheCapitals.js)
+- [Find the middle element](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FindTheMiddleElement.js)
+- [Find the next perfect square!](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FindTheNextPerfectSquare.js)
+- [Find the stray number](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FindTheStrayNumber.js)
+- [Fix string case](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FixStringCase.js)
+- [Fizz Buzz](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FizzBuzz.js)
+- [Flatten and sort an array](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FlattenAndSortAnArray.js)
+- [Form The Minimum](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FormTheMinimum.js)
+- [Friend or Foe?](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/FriendOrFoe.js)
+- [Get the Middle Character](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/GetTheMiddleCharacter.js)
+- [Growth of a Population](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/GrowthOfAPopulation.js)
+- [Highest and Lowest](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/HighestAndLowest.js)
+- [Isograms](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/Isograms.js)
+- [Is this a triangle?](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/IsThisATriangle.js)
+- [Jaden Casing Strings](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/JadenCasingStrings.js)
+- [JavaScript Array Filter](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/JavascriptArrayFilter.js)
+- [List Filtering](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/ListFiltering.js)
+- [Make a function that does arithmetic!](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/MakeAFunctionThatDoesArithmetic.js)
+- [Maximum Length Difference](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/MaximumLengthDifference.js)
+- [Maximum Multiple](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/MaximumMultiple.js)
+- [Money, Money, Money](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/MoneyMoneyMoney.js)
+- [Mumbling](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/Mumbling.js)
+- [No oddities here](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/NoOdditiesHere.js)
+- [Number of People in the Bus](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/NumberOfPeopleInTheBus.js)
+- [Odd or Even?](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/OddOrEven.js)
+- [Ones and Zeros](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/OnesAndZeros.js)
+- [Printer Errors](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/PrinterErrors.js)
+- [Regex validate PIN code](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/RegexValidatePINCode.js)
+- [Remove anchor from URL](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/RemoveAnchorFromURL.js)
+- [Remove the minimum](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/RemoveTheMinimum.js)
+- [Reverse words](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/ReverseWords.js)
+- [Round up to the next multiple of 5](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/RoundUpToTheNextMultipleOf5.js)
+- [Row Weights](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/RowWeights.js)
+- [Shortest Word](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/ShortestWord.js)
+- [Simple Fun #176: Reverse Letter](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SimpleFun176-ReverseLetter.js)
+- [Small enough? - Beginner](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SimpleFun176-ReverseLetter.js)
+- [Sort array by string length](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SortArrayByStringLength.js)
+- [Sort Numbers](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SortNumbers.js)
+- [Square Every Digit](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SquareEveryDigit.js)
+- [String ends with?](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/StringEndsWith.js)
+- [Summing a number's digits](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SummingANumbersDigits.js)
+- [Sum of angles](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SumOfAngles.js)
+- [Sum of a sequence](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SumOfASequence.js)
+- [Sum of odd numbers](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SumOfOddNumbers.js)
+- [Sum of the first nth term of Series](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SumOfTheFirstNthTermOfSeries.js)
+- [Sum of two lowest positive integers](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/SumOfTwoLowestPositiveIntegers.js)
+- [Testing 1-2-3](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/Testing123.js)
+- [The Coupon Code](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/TheCouponCode.js)
+- [The highest profit wins!](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/TheHighestProfitWins.js)
+- [Two fighters, one winner.](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/TwoFightersOneWinner.js)
+- [Two to One](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/TwoToOne.js)
+- [Vowel Count](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/VowelCount.js)
+- [You're a square!](https://github.com/codebyshane/codechallenges/blob/main/codewars/7kyu/YoureASquare.js)
+
 
 ##### 6kyu
+- [Are they the "same"?](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/AreTheyTheSame.js)
+- [Array.diff](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/ArrayDiff.js)
+- [A Rule of Divisibility by 13](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/ARuleOfDivisibilityBy13.js)
+- [Break camelCase](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/BreakcamelCase.js)
+- [Build Tower](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/BuildTower.js)
+- [CamelCase Method](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/CamelCaseMethod.js)
+- [Consecutive strings](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/ConsecutiveStrings.js)
+- [Count characters in your string](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/CountCharactersInYourString.js)
+- [Counting Duplicates](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/CountingDuplicates.js)
+- [Count the smiley faces!](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/CountTheSmileyFaces.js)
+- [Delete occurrences of an element if it occurs more than n times](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/DeleteOccurencesOfAnElementIfITOccursMoreThanNTimes.js)
+- [Detect Pangram](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/DetectPangram.js)
+- [Duplicate Encoder](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/DuplicateEncoder.js)
+- [Equal Sides Of An Array](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/EqualSidesOfAnArray.js)
+- [Find the odd int](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/FindTheOddInt.js)
+- [Find the unique number](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/FindTheUniqueNumber.js)
+- [Give me a Diamond](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/GiveMeADiamond.js)
+- [Help the bookseller !](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/HelpTheBookseller.js)
+- [Highest Scoring Word](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/HighestScoringWord.js)
+- [Mexican Wave](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/MexicanWave.js)
+- [Multiplication table](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/MultiplicationTable.js)
+- [Persistent Bugger.](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/PersistentBugger.js)
+- [Playing with digits](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/PlayingWithDigits.js)
+- [Rectangle into Squares](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/RectangleIntoSquare.js)
+- [Replace With Alphabet Position](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/ReplaceWithAlphabetPosition.js)
+- [Simple Encryption #1 - Alternating Split](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/SimpleEncryption1-AlternatingSplit.js)
+- [Sort the odd](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/SortTheOdd.js)
+- [Sums of Parts](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/SumOfParts.js)
+- [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TakeANumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka.js)
+- [Take a Ten Minutes Walk](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TakeATenMinutesWalk.js)
+- [The Supermarket Queue](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TheSupermarketQueue.js)
+- [Title Case](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TitleCase.js)
+- [Tortoise racing](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TortoiseRacing.js)
+- [Tribonacci Sequence](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TribonacciSequence.js)
+- [Two Sum](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/TwoSum.js)
+- [Unique In Order](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/UniqueInOrder.js)
+- [Who likes it?](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/WhoLikesIt.js)
+- [Write Number in Expanded Form](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/WriteNumberInExpandedForm.js)
+- [Your order, please](https://github.com/codebyshane/codechallenges/blob/main/codewars/6kyu/YourOrderPlease.js)
+
 
 ##### 5kyu
-- [Extract the Domain Name From a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
-- [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
-- [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+- [Directions Reduction](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/DirectionsReduction.js)
+- [Extract the Domain Name From a URL](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/ExtractTheDomainNameFromAURL.js)
+- [Integers: Recreation One](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/Integers-RecreationOne.js)
+- [Maximum subarray sum](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/MaximumSubarraySum.js)
+- [Pete, the baker](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/PeteTheBaker.js)
+- [Primes in numbers](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/PrimesInNumbers.js)
+- [Regex Password Validation](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/RegexPasswordValidation.js)
+- [Rot13](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/Rot13.js)
+- [Simple Pig Latin](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/SimplePigLatin.js)
+- [String incrementer](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/StringIncrementer.js)
+- [Sum of Pairs](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/SumOfPairs.js)
+- [The Hashtag Generator](https://github.com/codebyshane/codechallenges/blob/main/codewars/5kyu/TheHashtagGenerator.js)
 
 ##### 4kyu
-- [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
+- [Adding Big Numbers](https://github.com/codebyshane/codechallenges/blob/main/codewars/4kyu/AddingBigNumbers.js)
+- [Strings Mix](https://github.com/codebyshane/codechallenges/blob/main/codewars/4kyu/StringsMix.js)
 
 ##### 3kyu
 
@@ -99,279 +308,3 @@ Here are the coding challenges I do everyday.
 ##### 1dan
 
 ##### 2dan
-
-
-### LeetCode
-##### Easy
-
-##### Medium
-
-##### Hard
-
-
-### HackerRank
-
-
-<!-- # Grind75 Solutions & Resources: JavaScript
-
-As I work through this list I figure I would make a GitHub repo with my solutions along with articles and videos that relate to the problems that I've found helpful.
-
-## The problems
-
-### Easy
-
-1. [Two Sum #1](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
-2. [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
-3. [Merge Two Sorted Lists #21](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
-4. [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
-5. [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
-6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-7. [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
-8. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
-9. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-10. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
-11. [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
-12. [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
-13. [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
-14. [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
-15. [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
-16. [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
-17. [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
-18. [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
-19. [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
-20. [Add Binary #67](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/add-binary-67.md)
-21. [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
-22. [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
-23. [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-24. [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
-
-### Medium
-
-25. [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
-26. [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
-27. [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
-28. [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
-29. [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
-30. [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
-31. [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
-32. [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
-33. [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
-34. [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
-35. [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
-36. [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
-37. [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
-38. [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
-39. [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
-40. [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-41. [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
-42. [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
-43. [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
-44. Permutations #46
-45. [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
-46. Lowest Common Ancestor of a Binary Tree #236
-47. Time Based Key-Value Store #981
-48. Accounts Merge #721
-49. Sort Colors #75
-50. Word Break #139
-51. Partition Equal Subset Sum #416
-52. String to Integer (atoi) #8
-53. Spiral Matrix #54
-54. Subsets #78
-55. Binary Tree Right Side View #199
-56. Longest Palindromic Substring #5
-57. Unique Paths #62
-58. Construct Binary Tree from Preorder and Inorder Traversal #105
-59. Container With Most Water #11
-60. Letter Combinations of a Phone Number #17
-61. Word Search #79
-62. Find All Anagrams in a String #438
-63. Minimum Height Trees #310
-64. Task Scheduler #621
-65. [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
-66. Kth Smallest Element in a BST #230
-
-### Hard
-
-67. Minimum Window Substring #76
-68. Serialize and Deserialize Binary Tree #297
-69. Trapping Rain Water #42
-70. Find Median from Data Stream #295
-71. Word Ladder #127
-72. Basic Calculator #224
-73. Maximum Profit in Job Scheduling #1235
-74. [Merge k Sorted Lists #23](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/k-sorted-list-23.md)
-75. Largest Rectangle in Histogram #84
-
-## Data Structures
-
-In order to practice with similar data structures I'll be placing each problem in the categories below, along with some similar problems nested below to help practice with those data structures.
-
-### Array
-
-- [Two Sum #1](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
-- [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
-- [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
-- [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-- [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
-- [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
-- [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
-- [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
-- [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
-- [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
-- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
-- [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
-- [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
-- [Maximum Units on a Truck #1710](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/max-units-truck-1710.md)
-- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
-- [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
-- [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
-- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-- [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
-- [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
-- [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
-- [Trapping Rain Water #42](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/trapping-rain-42.md)
-
-### Queue
-
-- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-- [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-- [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
-- [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-- [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
-- [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
-- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-- [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
-
-### Stack
-
-- [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
-- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-- [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-- [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
-- [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-- [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
-- [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
-- [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
-- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-
-### Linked Lists
-
-- [Merge Two Sorted Lists #21](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
-- [Convert Binary Number in a Linked List to Integer #1290](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-linked-list-1290.md)
-- [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
-- [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
-- [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
-- [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
-- [Merge k Sorted Lists #23](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/k-sorted-list-23.md)
-
-### Hash Table
-
-- [Two Sum #1](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
-- [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
-- [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
-- [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
-- [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
-- [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
-- [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
-- [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
-- [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
-- [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
-- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
-- [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
-- [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
-- [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
-
-### Binary Tree
-
-- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-- [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
-- [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
-- [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
-- [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-- [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
-- [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
-
-### Graph
-
-- [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
-- [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
-- [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
-
-### Heap
-
-- [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
-- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
-
-### Trie
-
-- [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
-
-## Algorithm Patterns
-
-Within the problems above there are several patterns that often occur. I plan to categorize each problem such that if you are having problem with a particular pattern you can look for other similar problems that use the same pattern.
-
-### Two Pointers
-
-- [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
-- [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
-- [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
-- [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
-- [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
-- [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
-- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
-- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
-- [Trapping Rain Water #42](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/trapping-rain-42.md)
-
-### Sliding Window
-
-- [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
-
-### Binary Search
-
-- [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
-- [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
-
-### Breadth First Search
-
-- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-- [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-- [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-- [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
-- [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
-- [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
-- [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
-- [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
-- [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
-- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-- [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
-
-### Depth First Search
-
-- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-- [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-- [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
-- [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
-- [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
-- [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-- [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
-- [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
-- [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
-- [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
-- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-- [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
-
-### Divide & Conquer
-
-- [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
-- [Merge k Sorted Lists #23](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/k-sorted-list-23.md)
-
-### Dynamic Programming
-
-- [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
-- [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
-- [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
-- [Trapping Rain Water #42](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/trapping-rain-42.md)
-
-## Attribution
-
-- The original Grind 75 list can be found [here](https://www.techinterviewhandbook.org/grind75) -->
